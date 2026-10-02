@@ -514,6 +514,7 @@ body {
     color: #ffffff;
     font-size: 13px;
     border-radius: 20px;
+    text-decoration: none;
 }
 
 .card-btn:hover {
